@@ -1,0 +1,14 @@
+[
+  {
+    "href": "pro_header.html#h2-example",
+    "title": "Webpage title",
+    "section": "H2 example",
+    "text": "H3 example\n\nH4 example"
+  },
+  {
+    "href": "second.html",
+    "title": "Second webpage title",
+    "section": "",
+    "text": "Just some fake content."
+  }
+]

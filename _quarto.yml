@@ -1,0 +1,26 @@
+project:
+  type: site
+
+site: 
+  title: "Site title"
+  type: light
+  navbar:
+    pinned: true
+    logo: "RStudio-ball.svg"
+    right:
+      - text: "Workbench"
+        url: https://docs.rstudio.com/ide/server-pro/latest
+      - text: "Openscapes"
+        url: https://nasa-openscapes.github.io/earthdata-cloud-cookbook/
+
+  sidebar:
+    style: "docked"
+    contents:
+      - pro_header.qmd
+      - second.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
