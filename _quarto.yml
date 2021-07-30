@@ -6,7 +6,7 @@ site:
   type: light
   navbar:
     pinned: true
-    logo: "RStudio-ball.svg"
+    logo: RStudio-ball.svg
     right:
       - text: "Workbench"
         url: https://docs.rstudio.com/ide/server-pro/latest
